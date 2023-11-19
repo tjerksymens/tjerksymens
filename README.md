@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tjerk Symens</h1>
-<h3 align="left">A passionated full-stack developer student at Digital Experience Design</h3>
+<h1 align="left">Hi 👋, I'm Tjerk Symens</h1>
+<h3 align="left">A full-stack developer student at Digital Experience Design</h3>
 
 - 🌱 I’m currently learning **react, vue**
 
